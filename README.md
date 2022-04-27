@@ -13,8 +13,8 @@ I developed solutions for important business problems using data science. The pr
     
 **Where to Find Me:**
 
-* [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-da-silva-silva/)](https://www.linkedin.com/in/fernando-da-silva-silva/)
-* * [![Gmail Badge](https://img.shields.io/badge/-fernandovieira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandovieira88@gmail.com)](mailto:fernandovieira88@gmail.com)
+* [![Linkedin Badge](https://img.shields.io/badge/-Fernando_da_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-da-silva-silva/)](https://www.linkedin.com/in/fernando-da-silva-silva/)
+* [![Gmail Badge](https://img.shields.io/badge/-fernandovieira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandovieira88@gmail.com)](mailto:fernandovieira88@gmail.com)
 
 
 
