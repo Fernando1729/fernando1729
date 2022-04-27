@@ -2,8 +2,6 @@
 
 I am a student of Statistics and Data Science at USP (ICMC), I like to solve problems and I am passionate about Data Science.
 
-I developed solutions for important business problems using data science. The projects present the entire pipeline for solving real problems, from Exploratory Data Analysis, through the application of Machine Learning algorithms, to the interpretation of errors and deployment of the model in production.
-
 **Analytical Tools:**
 
 * **Data Processing and Analysis:** Python, R, C++, MATLAB.
