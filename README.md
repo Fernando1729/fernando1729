@@ -13,7 +13,7 @@ I developed solutions for important business problems using data science. The pr
     
 **Where to Find Me:**
 
-* [![Linkedin Badge](https://img.shields.io/badge/-Fernando-da-Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-da-silva-silva/)](https://www.linkedin.com/in/fernando-da-silva-silva/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-da-silva-silva/)](https://www.linkedin.com/in/fernando-da-silva-silva/)
 
 
 <!--
