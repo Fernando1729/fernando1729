@@ -8,12 +8,14 @@ I developed solutions for important business problems using data science. The pr
 
 * **Data Processing and Analysis:** Python, R, C++, MATLAB.
 * **Development:** Git.
-* **Data Vizualization:** Matplotlib, Plotly, Seabor.
-* **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series.
+* **Data Vizualization:** Matplotlib, Plotly, Seaborn.
+* **Machine Learning Modeling:** Classification, Regression, Clustering, Support Vector Machines.
     
 **Where to Find Me:**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-da-silva-silva/)](https://www.linkedin.com/in/fernando-da-silva-silva/)
+* * [![Gmail Badge](https://img.shields.io/badge/-fernandovieira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandovieira88@gmail.com)](mailto:fernandovieira88@gmail.com)
+
 
 
 <!--
