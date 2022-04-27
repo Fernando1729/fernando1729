@@ -1,6 +1,6 @@
 ### About Me
 
-I am a student of Statistics and Data Science at USP (ICMC), I like to solve problems and I am passionate about Data Science.
+I am a student of Statistics and Data Science at USP (ICMC). At the moment I'm looking for an internship in São Carlos or something remote related to Data Analysis.
 
 **Analytical Tools:**
 
